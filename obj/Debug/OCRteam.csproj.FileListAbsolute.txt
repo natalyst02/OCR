@@ -1,0 +1,11 @@
+D:\OCR\OCRTeam\bin\Debug\LPR_Laptrinhvb.exe.config
+D:\OCR\OCRTeam\bin\Debug\LPR_Laptrinhvb.exe
+D:\OCR\OCRTeam\bin\Debug\LPR_Laptrinhvb.pdb
+D:\OCR\OCRTeam\obj\Debug\OCRteam.csproj.AssemblyReference.cache
+D:\OCR\OCRTeam\obj\Debug\LPR_Laptrinhvb.Properties.Resources.resources
+D:\OCR\OCRTeam\obj\Debug\OCRteam.csproj.GenerateResource.cache
+D:\OCR\OCRTeam\obj\Debug\OCRteam.csproj.CoreCompileInputs.cache
+D:\OCR\OCRTeam\obj\Debug\OCRteam.csproj.CopyComplete
+D:\OCR\OCRTeam\obj\Debug\LPR_Laptrinhvb.exe
+D:\OCR\OCRTeam\obj\Debug\LPR_Laptrinhvb.pdb
+D:\OCR\OCRTeam\obj\Debug\OCRteam.mainCalculate.resources
